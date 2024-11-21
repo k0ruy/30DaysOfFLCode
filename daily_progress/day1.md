@@ -27,4 +27,4 @@ The introduction sets the stage for an in-depth exploration of these challenges,
 It emphasizes that FL is crucial for enabling learning on sensitive, distributed datasets while meeting privacy and efficiency requirements.
 
 >[!TIP]
->Takehome messages: Federated Learning enables collaborative model training across decentralized devices while preserving privacy, but it faces significant challenges like communication inefficiency, data heterogeneity, and system robustness, offering vast opportunities for innovation.
+>**Takehome message:** Federated Learning enables collaborative model training across decentralized devices while preserving privacy, but it faces significant challenges like communication inefficiency, data heterogeneity, and system robustness, offering vast opportunities for innovation.
