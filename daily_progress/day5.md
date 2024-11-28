@@ -13,6 +13,5 @@ After establishing the centralized training setup, the tutorial transitions into
 
 Throughout the tutorial, key concepts of federated learning are explained, and practical code examples are provided to illustrate the implementation. By the end, you will have a solid understanding of how to set up both centralized and federated learning experiments using PyTorch and the Flower framework.
 
-For more detailed information and access to the code examples, you can refer to the official tutorial on the Flower website.
-
-source: https://flower.ai/docs/framework/tutorial-series-get-started-with-flower-pytorch.html
+For more detailed information and access to the code examples, you can refer to the official tutorial on the [Flower website](https://flower.ai/docs/framework/tutorial-series-get-started-with-flower-pytorch.html
+).
