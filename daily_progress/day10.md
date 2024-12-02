@@ -1,5 +1,8 @@
 # Day 10
 
+Study of [A robust analysis of adversarial attacks on federated learning environments](https://www.sciencedirect.com/science/article/pii/S0920548923000041?casa_token=E-t_KBVyo_EAAAAA:1ayB45aIVvZwj6Z9qWQQwzMCWN-1ZFjr1Q4qdYr0MujCQqYoISeRlKkRW7abZOsrbqmA4ygHgQ) paper
+
+
 >[!TIP]
 >Federated learning faces a variety of sophisticated adversarial attacks, but existing defense mechanisms like robust aggregation and anomaly detection provide some protection. However, challenges such as scalability, non-IID data, and adaptive adversaries mean there is still a pressing need for innovative and resilient solutions to secure FL systems effectively.
 
